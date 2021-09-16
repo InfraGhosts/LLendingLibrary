@@ -1,0 +1,16 @@
+G:\Code\C# Like A Girl\Lesson 9 Activity\LendingLibrary\obj\Debug\net5.0\LendingLibrary.csproj.AssemblyReference.cache
+G:\Code\C# Like A Girl\Lesson 9 Activity\LendingLibrary\obj\Debug\net5.0\LendingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\C# Like A Girl\Lesson 9 Activity\LendingLibrary\obj\Debug\net5.0\LendingLibrary.AssemblyInfoInputs.cache
+G:\Code\C# Like A Girl\Lesson 9 Activity\LendingLibrary\obj\Debug\net5.0\LendingLibrary.AssemblyInfo.cs
+G:\Code\C# Like A Girl\Lesson 9 Activity\LendingLibrary\obj\Debug\net5.0\LendingLibrary.csproj.CoreCompileInputs.cache
+G:\Code\C# Like A Girl\Lesson 9 Activity\LendingLibrary\bin\Debug\net5.0\LendingLibrary.exe
+G:\Code\C# Like A Girl\Lesson 9 Activity\LendingLibrary\bin\Debug\net5.0\LendingLibrary.deps.json
+G:\Code\C# Like A Girl\Lesson 9 Activity\LendingLibrary\bin\Debug\net5.0\LendingLibrary.runtimeconfig.json
+G:\Code\C# Like A Girl\Lesson 9 Activity\LendingLibrary\bin\Debug\net5.0\LendingLibrary.runtimeconfig.dev.json
+G:\Code\C# Like A Girl\Lesson 9 Activity\LendingLibrary\bin\Debug\net5.0\LendingLibrary.dll
+G:\Code\C# Like A Girl\Lesson 9 Activity\LendingLibrary\bin\Debug\net5.0\ref\LendingLibrary.dll
+G:\Code\C# Like A Girl\Lesson 9 Activity\LendingLibrary\bin\Debug\net5.0\LendingLibrary.pdb
+G:\Code\C# Like A Girl\Lesson 9 Activity\LendingLibrary\obj\Debug\net5.0\LendingLibrary.dll
+G:\Code\C# Like A Girl\Lesson 9 Activity\LendingLibrary\obj\Debug\net5.0\ref\LendingLibrary.dll
+G:\Code\C# Like A Girl\Lesson 9 Activity\LendingLibrary\obj\Debug\net5.0\LendingLibrary.pdb
+G:\Code\C# Like A Girl\Lesson 9 Activity\LendingLibrary\obj\Debug\net5.0\LendingLibrary.genruntimeconfig.cache

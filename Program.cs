@@ -39,13 +39,6 @@ namespace LendingLibrary
                         mainLibrary.ShowTextBooks();
 
                         break;
-                    case("borrow"):
-
-                        break;
-
-                    case("return"):
-
-                        break;
 
                     case("add member"):
 
